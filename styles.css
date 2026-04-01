@@ -1,4 +1,9 @@
-body {
-    color: white;
-    background-color: black;
+body {background-color: rgb(221, 214, 205);}
+h1 {text-align: center;
+font-weight: 100;
+border-bottom: 1px solid rgb(113, 214, 245);
+margin: 80px;}
+.dialog{
+    margin-left: 80px;
 }
+.brown {color: rgb(221, 112, 39); font-size: 20px;}
